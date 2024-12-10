@@ -1,0 +1,842 @@
+@media(max-width: 1286px){
+    .hero-left{
+        width: 46%;
+        
+    }
+    .hero-left .headingText p {
+        font-size: 45px;
+        
+    }
+}
+
+
+@media(max-width: 1240px){
+    .hero-left{
+        width: 50%;
+        
+    }
+    .hero-left .headingText p {
+        font-size: 45px;
+        
+    }
+}
+
+
+@media(max-width: 1200px){
+   
+    .hero-left .headingText p {
+        font-size: 50px;
+        line-height: 3rem;
+        
+    }
+
+    .union .img2{
+        width: 280px;
+        position: relative;
+        top: -450px;
+        left: 105px;
+        
+    }
+
+    .image6 {
+        justify-content: left;
+    }
+
+    .union .img1{
+        width: 350px;
+    }
+    .specialText{
+        font-size: 35px;
+    }
+}
+
+
+@media(max-width: 1040px){
+    .eyeholder {
+        justify-content: left;
+        gap: 0.5rem;
+    }
+    .nicoNfts p {
+        font-size: 26px;
+    }
+}
+
+@media(max-width: 991px){
+   .nav-wrapper{
+    display: none;
+   }
+   .topnav #myLinks {
+    display: block;
+  }
+
+  .topnav{
+    display: block;
+  }
+
+  .hero-left {
+    width: 45%;
+}
+
+.hero-left .headingText p {
+    font-size: 45px;
+}
+
+.image6 {
+    justify-content: right;
+}
+
+.hero-left .bodytxt {
+    width: 100%;
+    /* border: medium solid red; */
+}
+
+.union .img1 {
+    right: 50px;
+}
+
+.union .img1 {
+    right: 30px;
+}
+
+.union .img2 {
+    left: 75px;
+}
+}
+
+@media(max-width: 968px){
+   
+   .hero-left {
+     width: 45%;
+ }
+ 
+ .hero-left .headingText p {
+     font-size: 40px;
+ }
+ 
+ .image6 {
+     justify-content: left;
+ }
+ 
+ .hero-left .bodytxt {
+     width: 100%;
+     /* border: medium solid red; */
+ }
+ 
+ .union .img1 {
+     right: 50px;
+ }
+ 
+ .union .img1 {
+     right: 30px;
+ }
+ 
+ .union .img2 {
+     left: 75px;
+ }
+ }
+
+
+ @media(max-width: 968px){
+    .hero-left .headingText p {
+        font-size: 35px;
+    }
+    .union .img2 {
+        width: 250px;
+        position: relative;
+        top: -410px;
+        left: 75px;
+    }
+
+    .union .img1 {
+        width: 320px;
+    }
+
+ }
+
+ @media(max-width: 866px){
+    .hero-left .headingText p {
+        font-size: 33px;
+    }
+
+    .nicoNfts p {
+        font-size: 24px;
+    }
+
+ }
+
+ @media(max-width: 845px){
+    .hero-left .headingText p {
+        font-size: 33px;
+    }
+
+    .nicoNfts p {
+        font-size: 24px;
+    }
+
+    .hero-wrapper{
+        /* border: medium solid red; */
+        width: 100%;
+        display: inline-flex;
+        flex-direction: column;
+        
+    }
+
+    .hero-left {
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;display: inline-flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .hero-left .headingText p {
+        font-size: 43px;
+        line-height: 80px;
+        text-align: center;
+    }
+
+    .hero-left .headingText {
+        padding-top: 170px;
+    }
+
+    .nftspart {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .hero-left .bodytxt p {
+        font-size: 20px;
+        text-align: center;
+        
+    }
+
+    .image6 {
+        width: 10%;  
+    }
+
+
+    .explorenfts{
+        padding-top: 0px;
+    }
+    .explorenfts .nfts {
+        width: 180px;
+        height: 50px;
+        border-radius: 10px;
+        font-size: 17px;
+
+    }
+
+    .hero-right {
+        width: 100%;
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .union .img1 {
+        /* display: inline-flex; */
+        margin-left: 80px;
+        padding-top: 0px;
+        position: relative;
+    }
+
+    .union {
+        overflow: hidden;
+        height: 600px;
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: -80px;
+    }
+
+    .samurai{
+        display: none;
+    }
+
+    .sectionTwo {
+        width: 90%;
+        height: fit-content;
+        /* border: medium solid red; */
+        transform: translateY(-20rem);
+        margin-left: 40px;
+       
+    }
+}
+
+@media (max-width: 625px) {
+    .hero-left .bodytxt p {
+        font-size: 17px;
+        text-align: center;
+    }
+
+    .sectionTwo {
+        margin-left: 30px;
+    }
+    .hero-left .headingText p {
+        line-height: 60px;
+        
+    }
+}
+
+@media (max-width: 535px) {
+    .nftspart {
+        padding-left: 30px;
+        padding-right: 35px;
+    }
+
+    .sectionTwo {
+        margin-left: 25px;
+    }
+
+    .nicoNfts p {
+        font-size: 20px;
+    }
+
+    .artHead {
+        font-size: 10px;
+        
+    }
+}
+
+@media (max-width: 517px) {
+    .nftspart {
+        padding-left: 20px;
+        padding-right: 30px;
+    }
+}
+
+@media (max-width: 500px) {
+    .sectionTwo {
+        margin-left: 15px;
+    }
+
+    .nftspart {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+
+@media (max-width: 489px) {
+    .sectionTwo {
+        margin-left: 15px;
+    }
+
+    .nftspart {
+        padding-left: 10px;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width: 478px) {
+    .hero-left .headingText p {
+        font-size: 35px;
+        line-height: 50px;
+        text-align: center;
+    }
+    .hero-left .bodytxt p {
+        font-size: 15px;
+    }
+
+    
+
+    .nftspart {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .union {
+        margin-left: -100px;
+    }
+    .nicoNfts p {
+        font-size: 17px;
+    }
+
+    .boxTextHolder {
+        grid-template-columns: 1fr 1fr;
+        display: grid;
+        margin-left: 30px;
+    }
+
+    .boxText1 {
+        height: 80px;
+        width: 100%;
+        /* border: medium solid rgb(255, 0, 43); */
+    }
+
+    .boxText2 {
+        height: 80px;
+        width: 100%;
+        /* border: medium solid rgb(255, 0, 43); */
+    }
+
+    .boxText3 {
+        height: 80px;
+        width: 100%;
+        /* border: medium solid rgb(255, 0, 43); */
+    }
+
+    .boxText4 {
+        height: 80px;
+        width: 100%;
+        /* border: medium solid rgb(255, 0, 43); */
+    }
+
+}
+
+@media (max-width: 466px) {
+    .hero-left .headingText p {
+        font-size: 35px;
+        line-height: 50px;
+        text-align: center;
+    }
+
+
+    .nftspart {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .union {
+        margin-left: -100px;
+    }
+
+    .hero-left .headingText {
+        padding-top: 150px;
+    }
+
+
+}
+
+@media (max-width: 440px) {
+    .hero-left .headingText p {
+        font-size: 30px;
+    }
+
+    
+    .hero-left .headingText {
+        padding-top: 140px;
+    }
+
+    .boxTextHolder {
+        grid-template-columns: 1fr 1fr;
+        display: grid;
+        margin-left: 25px;
+    }
+}
+
+
+
+
+@media (max-width: 417px) {
+    .hero-left .headingText p {
+        font-size: 25px;
+    }
+
+    
+    .hero-left .headingText {
+        padding-top: 130px;
+    }
+
+    .nftspart {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+   
+}
+
+@media (max-width: 398px) {
+    .hero-left .bodytxt p {
+        font-size: 14px;
+    }
+
+    .nftspart {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .boxTextHolder {
+        grid-template-columns: 1fr 1fr;
+        display: grid;
+        margin-left: 20px;
+    }
+}
+
+
+@media (max-width: 391px) {
+    .nicoNfts p {
+        font-size: 15px;
+    }
+}
+
+
+@media (max-width: 355px) {
+  
+
+    .nicoNfts p {
+        font-size: 12px;
+    }
+
+    .hero-left .headingText p {
+        font-size: 23px;
+        line-height: 30px;
+    }
+}
+
+
+@media (max-width: 338px) {
+    .hero-left .bodytxt p {
+        font-size: 14px;
+    }
+
+    .nftspart {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .boxTextHolder {
+        grid-template-columns: 1fr 1fr;
+        display: grid;
+        margin-left: 15px;
+    }
+}
+
+
+
+
+@media (max-width: 1315px){
+    .nftCard1{
+        width: 30%;
+    }
+    .nftCard2{
+        width: 30%;
+    }
+    .nftCard3{
+        width: 30%;
+    }
+    .nftCard4{
+        width: 30%;
+    }
+    .nftCard5{
+        width: 30%;
+    }
+    .nftCard6{
+        width: 30%;
+    }
+
+    .specialBorder{
+        width: 90%;
+    }
+
+    .specialBorder2{
+        width: 90%;
+    }
+
+    .imgSpecial img{
+        width: 100%;
+    }
+
+
+}
+
+
+@media (max-width: 1130px){
+    .titles1 p{
+        font-size: 16px;
+    }
+
+    .titleTiles{
+        width: 90%;
+    }
+
+    .ethereum p{
+        font-size: 16px; 
+    }
+}
+
+
+@media (max-width: 996px){
+    .titles1 p{
+        font-size: 14px;
+    }
+
+    .titleTiles{
+        width: 90%;
+    }
+
+    .ethereum p{
+        font-size: 16px; 
+    }
+}
+
+
+@media (max-width: 872px){
+    .nftCard1{
+        width: 45%;
+    }
+    .nftCard2{
+        width: 45%;
+    }
+    .nftCard3{
+        width: 45%;
+    }
+    .nftCard4{
+        width: 45%;
+    }
+    .nftCard5{
+        width: 45%;
+    }
+    .nftCard6{
+        width: 45%;
+    }
+
+    .mainSect{
+        justify-content: center;
+    }
+
+    .specialBorder{
+        width: 90%;
+    }
+
+    .specialBorder2{
+        width: 90%;
+    }
+
+    .imgSpecial img{
+        width: 100%;
+    }
+
+    .titles1 p{
+        font-size: 18px;
+    }
+  
+    .ethereum p{
+        font-size: 18px; 
+    }
+
+
+}
+
+@media (max-width: 727px){
+    .titles1 p{
+        font-size: 15px;
+    }
+
+
+    .ethereum p{
+        font-size: 16px; 
+    }
+}
+@media (max-width: 625px){
+    .sectionThree{
+        margin-top: -192.52px;
+    }
+}
+
+
+
+@media (max-width: 623px) {
+    .titleTiles {
+        width: 90%;
+        display: inline-flex;
+        flex-direction: column;
+    }
+
+    .titles1 p{
+        font-size: 15px;
+        
+    }
+
+    .titles1{
+        width: 100%;
+        padding-left: 10px;
+    }
+
+    .ratings{
+        padding-left: 10px;
+    }
+
+    .ethereum p{
+        font-size: 16px; 
+    }
+
+    .imgSpecial {
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .imgSpecial img{
+        width: 90%;
+        border-radius: 15px;
+        height: 200px;
+    }
+
+    .specialBorder2{
+        height: fit-content;
+    }
+
+    .specialBorder{
+        height: fit-content;
+    }
+
+    .nftCard1{
+        height: 360px;
+    }
+
+    .nftCard2{
+        height: 360px;
+    }
+    .nftCard3{
+        height: 360px;
+    }
+    .nftCard4{
+        height: 360px;
+    }
+
+    .nftCard5{
+        height: 360px;
+    }
+
+    .nftCard6{
+        height: 360px;
+    }
+
+    .buyProductBtn button{
+        width: 250px;
+    }
+    
+    
+}
+
+@media (max-width: 515px) {
+    /* .onClick{
+        font-size: 13px;
+        margin-left: -50px;
+    } */
+
+    .linkNfts{
+        padding-left: -20px;
+        padding-right: 20px;
+    }
+}
+
+
+@media (max-width: 515px) {
+   
+    .titles1 p{
+        font-size: 14px;
+        
+    }
+/* 
+    .nftCard1{
+        height: 440px;
+    }
+
+    .nftCard2{
+        height: 440px;
+    }
+    .nftCard3{
+        height: 440px;
+    }
+    .nftCard4{
+        height: 440px;
+    }
+
+    .nftCard5{
+        height: 440px;
+    }
+
+    .nftCard6{
+        height: 440px;
+    } */
+
+    .buyProductBtn button{
+        width: 250px;
+    }
+    
+    
+}
+
+@media (max-width: 478px) {
+    .sectionThree {
+        margin-top: -305px;
+    }
+}
+
+@media (max-width: 466px) {
+    .titles1 p {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 420px) {
+    .linkNfts a{
+        width: 90px;
+    }
+    .linkNfts{
+        padding: 0;
+        margin-left: -30px;
+    }
+}
+
+
+@media (max-width: 406px) {
+    .titles1 p {
+        font-size: 11px;
+    }
+
+    .onClick{
+        font-size: 13px;
+    }
+
+    .linkNfts a{
+        font-size: 10px;
+        width: 70px;
+    }
+}
+
+
+@media (max-width: 373px) {
+    .titles1 {
+        width: 100%;
+        padding-left: 5px;
+    
+}
+    .linkNfts{
+        margin-left: -10px;
+}
+   
+
+}
+
+
+@media (max-width: 351px) {
+    .titles1 {
+        width: 100%;
+        padding-left: 1px;
+    
+}
+
+
+    .linkNfts{
+        margin-left: -20px;
+}
+
+   
+
+}
+
+@media (max-width: 341px) {
+    .titles1 {
+        width: 100%;
+        padding-left: 1px;
+    
+}
+
+.titles1 p {
+    font-size: 10px;
+}
+
+}
