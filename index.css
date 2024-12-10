@@ -886,8 +886,8 @@ button:disabled, button[disabled]{
     align-items: center;
 }
 
-
-/* .uniqueBtn{
+/* 
+.uniqueBtn{
   
 
     
@@ -898,11 +898,9 @@ button:disabled, button[disabled]{
     height: 40px;
     border-radius: 6px;
     border: thin solid #e217bd ;
-    /* color: white; */
-    background: linear-gradient(to right #0E566B 70%, white 30%);
-    font-size: 14px; */
+  
     font-family: "Playwrite GB S", cursive;
     font-weight: 200;
     cursor: pointer;
     
-}
+} */
